@@ -1,14 +1,14 @@
 Client: 
-    ID: '' # Bot ID
-    Guild: '' # Guild ID
+    ID: '1297558394315739266' # Bot ID
+    Guild: '1223698948682940466' # Guild ID
     Version: '1.0.0' 
 
 Ready:
-    Activity: 'DevXor Team' 
+    Activity: 'By Saski' 
     Status: 'DND'  # Online, Idle, Invisible, DND
     Type: 'Competing' # Playing, Watching, Listening, Competing
 
 #ID Owners Bot
 Owners: 
-    - ''
-    - ''
+    - '728236391900905492'
+    - '927268678519648286'
